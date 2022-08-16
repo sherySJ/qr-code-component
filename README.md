@@ -71,7 +71,6 @@ More focus is needed on understanding these concepts
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@sherySJ](https://www.frontendmentor.io/profile/SherSJ)
 - LinkedIn - [sherjan909](https://www.linkedin.com/in/sherjan909/)
 
